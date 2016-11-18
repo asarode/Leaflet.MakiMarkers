@@ -1,0 +1,24 @@
+{
+  "name": "leaflet-makimarkers",
+  "version": "2.0.0",
+  "description": "Leaflet plugin to create map icons using Maki Icons from Mapbox.",
+  "main": "Leaflet.MakiMarkers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asarode/Leaflet.MakiMarkers.git"
+  },
+  "keywords": [
+    "leaflet",
+    "maki-markers",
+    "icons"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asarode/Leaflet.MakiMarkers/issues"
+  },
+  "homepage": "https://github.com/asarode/Leaflet.MakiMarkers#readme"
+}
